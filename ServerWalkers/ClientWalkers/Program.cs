@@ -66,9 +66,10 @@ namespace Client
         static void Main(string[] args)
         {
             Console.Title = "Client";
-
+            Console.WriteLine("EnterIp");
+            var a = Console.ReadLine();
             Console.WriteLine("Подключение к серверу...");
-            socket.Connect("127.0.0.1", 2048);
+            socket.Connect(a, 2048);
             Console.WriteLine("Подключено");
             Thread.Sleep(1000);
             Console.Clear();
