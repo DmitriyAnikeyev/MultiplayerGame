@@ -1,0 +1,10 @@
+c:\users\dmitr\documents\visual studio 2015\Projects\ServerWalkers\ServerWalkers\bin\Debug\ServerWalkers.exe.config
+c:\users\dmitr\documents\visual studio 2015\Projects\ServerWalkers\ServerWalkers\bin\Debug\ServerWalkers.exe
+c:\users\dmitr\documents\visual studio 2015\Projects\ServerWalkers\ServerWalkers\bin\Debug\ServerWalkers.pdb
+c:\users\dmitr\documents\visual studio 2015\Projects\ServerWalkers\ServerWalkers\obj\Debug\ServerWalkers.exe
+c:\users\dmitr\documents\visual studio 2015\Projects\ServerWalkers\ServerWalkers\obj\Debug\ServerWalkers.pdb
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ServerWalkers\bin\Debug\ServerWalkers.exe.manifest
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ServerWalkers\bin\Debug\ServerWalkers.application
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ServerWalkers\obj\Debug\ServerWalkers.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ServerWalkers\obj\Debug\ServerWalkers.exe.manifest
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ServerWalkers\obj\Debug\ServerWalkers.application

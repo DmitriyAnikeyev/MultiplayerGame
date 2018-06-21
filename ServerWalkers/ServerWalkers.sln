@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWalkers", "ServerWalkers\ServerWalkers.csproj", "{1A0520DC-CB4A-434F-804F-F28D7E25BF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWalkers", "ClientWalkers\ClientWalkers.csproj", "{746BC850-7D8A-481E-AE5F-2D2630F37302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0520DC-CB4A-434F-804F-F28D7E25BF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0520DC-CB4A-434F-804F-F28D7E25BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0520DC-CB4A-434F-804F-F28D7E25BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0520DC-CB4A-434F-804F-F28D7E25BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746BC850-7D8A-481E-AE5F-2D2630F37302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746BC850-7D8A-481E-AE5F-2D2630F37302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746BC850-7D8A-481E-AE5F-2D2630F37302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746BC850-7D8A-481E-AE5F-2D2630F37302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

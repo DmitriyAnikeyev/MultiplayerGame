@@ -1,0 +1,10 @@
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\bin\Debug\ClientWalkers.exe.config
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\bin\Debug\ClientWalkers.exe
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\bin\Debug\ClientWalkers.pdb
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\obj\Debug\ClientWalkers.exe
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\obj\Debug\ClientWalkers.pdb
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\obj\Debug\ClientWalkers.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\bin\Debug\ClientWalkers.exe.manifest
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\bin\Debug\ClientWalkers.application
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\obj\Debug\ClientWalkers.exe.manifest
+C:\Users\dmitr\Documents\Visual Studio 2015\Projects\ServerWalkers\ClientWalkers\obj\Debug\ClientWalkers.application
